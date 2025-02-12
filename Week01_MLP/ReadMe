@@ -1,0 +1,34 @@
+### Terms and conditions
+
+By taking this course, you accept the following rules:
+
+* You give permission for proctoring your submissions.
+* Solution sharing is strictly not allowed **before, during and after the course**. That means that you are not allowed to share your solutions **(or any parts)** via private channels and/or public repositories.
+
+### Important information about the course
+
+* Please review carefully
+ * [the schedule of the course and the deadlines](https://mycourses.aalto.fi/course/view.php?id=44351&section=1)
+ * [the tips and frequently asked questions related to the assignments](https://mycourses.aalto.fi/course/view.php?id=44351&section=2)
+ * [the protocol for the exercise sessions](https://mycourses.aalto.fi/course/view.php?id=44351&section=3)
+ * [the grading policy](https://mycourses.aalto.fi/course/view.php?id=44351&section=4).
+
+**Note that we have a zero-point policy for late submissions. Please do not request to change that.**
+
+* Please keep in mind that **the most important learning outcome of this course is that you can debug your deep learning code by yourself**, which means that you should learn how to test your implementation. The notebooks contain lots of examples of unit tests and we hope that you will learn how to design tests during this course.
+
+### Slack etiquette
+
+* You are encouraged to participate in Slack discussions, help others learn pytorch, give tips which may help others fix problems etc. However, please be considerate and remember that the assignments are **individual projects**, not a group work.
+
+* You are not allowed
+  * to share pieces of working solution (code). We will remove such messages from slack
+  * to share links to public repositories from which part of the code can be borrowed
+  * to share the math needed to solve some assignments
+  * to share tests that can validate the correctness of a solution
+
+* If someone reports a problem for which you know the solution, you are welcome to give a tip but please do not give a direct answer explaining how to fix the problem. For example, instead of saying "*I had exactly the same problem and the reason was that my collate function did not do proper padding in the target sequences*", you could say "*The problem might be in your collate function, you should probably test that*".
+
+* You are welcome to post questions in public channels at any time. The teaching staff will follow slack discussions.
+* **Please note that the teaching staff cannot provide personal assistance (such as looking at your code) outside exercise sessions. Please do not request that.** If you want a teacher to look at your code, please attend an exercise session and follow the [protocol](https://mycourses.aalto.fi/course/view.php?id=44351&section=3).
+
