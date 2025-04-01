@@ -1,0 +1,8 @@
+Exercise 1. Convolutional neural networks. LeNet-5.
+In this exercise, you will train a very simple convolutional neural network used for image classification tasks.
+
+Exercise 2. Convolutional networks. VGG-style network.
+In the second part you need to train a convolutional neural network with an architecture inspired by a VGG-network (Simonyan & Zisserman, 2015).
+
+Exercise 3. Convolutional networks. ResNet.
+In the third part you need to train a convolutional neural network with a ResNet architecture (He et al, 2016).
